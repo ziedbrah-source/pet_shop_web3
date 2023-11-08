@@ -1,14 +1,14 @@
 # Ethereum Pet Shop DApp
 
-This repository contains the code for an adoption tracking system for a pet shop built using Ethereum and smart contracts. It is based on the Ethereum Pet Shop tutorial from the Truffle Suite documentation.[Tutorial](https://trufflesuite.com/guides/pet-shop/))
+This repository contains the code for an adoption tracking system for a pet shop built using Ethereum and smart contracts. It is based on the Ethereum Pet Shop tutorial from the Truffle Suite documentation.[Tutorial](https://trufflesuite.com/guides/pet-shop/)
 
 ## Getting Started
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you get more in depth knowledge about some steps.
 
 ### Prerequisites && Installation
 
-Please refer to the tutorial as this is not the official tutoril, here we gonna just give some steps their value.
+Please refer to the tutorial as this is not the official tutorial, here we gonna just give some steps their value.
 
 ### Compilation:
 in the compilation of the contracts we can see the generation of the build folder where we can see the .json file for each contract, in which there is the ABI and some other info.
